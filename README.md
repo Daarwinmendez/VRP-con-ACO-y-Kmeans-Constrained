@@ -15,26 +15,28 @@ El proyecto se ha realizado en Google Colab, y se ha trabajado con datos que se 
 
 ## Librerías
 
-* `google.colab`
-* `os`
-* `io`
-* `pandas`
-* `typing`
-* `math`
-* `sklearn`
-* `matplotlib`
-* `networkx`
-* `numpy`
-* `time`
-* `psutil`
-* `seaborn`
+```markdown
+* google.colab
+* os
+* io
+* pandas
+* typing
+* math
+* sklearn
+* matplotlib
+* networkx
+* numpy
+* time
+* psutil
+* seaborn
+```
 
 ## Autores
 
-* Darwin Mendez: [GitHub](https://github.com/Daarwinmendez), [LinkedIn](www.linkedin.com/in/darwin-mendez-061881185)
-* Roither Sanchez: [GitHub](https://github.com/XTrollaX), [LinkedIn](https://www.linkedin.com/in/roither-sànchez-sosa-b77b37244/)
-* Michael García: [GitHub](https://github.com/MichaGF0305), [LinkedIn](https://www.linkedin.com/in/michael-david-garc%C3%ADa-feliz-37446b296/)
-* Camily García: [GitHub](https://github.com/CamyG18), [LinkedIn](https://www.linkedin.com/in/camily-garcía-7b4632319/)
+* **Darwin Mendez:** [GitHub](https://github.com/Daarwinmendez), [LinkedIn](https://www.linkedin.com/in/darwin-mendez-061881185)
+* **Roither Sanchez:** [GitHub](https://github.com/XTrollaX), [LinkedIn](https://www.linkedin.com/in/roither-s%C3%A0nchez-sosa-b77b37244/)
+* **Michael García:** [GitHub](https://github.com/MichaGF0305), [LinkedIn](https://www.linkedin.com/in/michael-david-garc%C3%ADa-feliz-37446b296/)
+* **Camily García:** [GitHub](https://github.com/CamyG18), [LinkedIn](https://www.linkedin.com/in/camily-garc%C3%ADa-7b4632319/)
 
 ## Conclusiones
 
@@ -44,13 +46,16 @@ El proyecto se ha realizado en Google Colab, y se ha trabajado con datos que se 
 
 ## Instrucciones de Uso
 
+```markdown
 1. **Importar datos:** Asegúrate de tener los datos de entrada en los formatos correspondientes (Parquet, Excel) y ubicados en las rutas indicadas en el código.
 2. **Ejecutar el flujo general:** Ejecuta las celdas de código en secuencia, comenzando por la importación de librerías y la carga de datos, hasta llegar a la validación de resultados.
 3. **Análisis de resultados:** Interpreta los resultados obtenidos, como el costo total de las rutas, el número de vehículos utilizados y las métricas de error.
+```
 
 ## Sugerencias para mejorar
 
+```markdown
 * Explorar distintos parámetros del ACO y del clustering para optimizar aún más la solución.
 * Comparar el rendimiento con otros algoritmos de enrutamiento.
 * Considerar la visualización de las rutas en un mapa.
-
+```
