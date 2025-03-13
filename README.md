@@ -2,7 +2,9 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo implementar una solución al problema de enrutamiento de vehículos (VRP) utilizando el algoritmo de optimización de colonias de hormigas (ACO) en conjunto con un algoritmo de clustering.
+El **Problema de Enrutamiento de Vehículos (VRP, por sus siglas en inglés)** es un desafío fundamental en la logística y el transporte, donde se busca determinar la mejor manera de asignar y organizar rutas de entrega de vehículos para minimizar costos y optimizar tiempos. Su resolución es clave para mejorar la eficiencia operativa en sectores como la distribución de mercancías, la gestión de flotas y el servicio de última milla.
+
+Este proyecto implementa una solución al VRP combinando el **algoritmo de optimización de colonias de hormigas (ACO)** con **clustering basado en K-Means**. Mediante esta integración, se agrupan eficientemente los puntos de entrega y se optimizan las rutas dentro de cada grupo, considerando restricciones como la capacidad de los vehículos y la demanda de los clientes.
 
 El problemset está disponible gracias al Ingeniero y maestro **Carlos Ogando**.
 
